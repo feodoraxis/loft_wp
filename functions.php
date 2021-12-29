@@ -7,4 +7,3 @@ require get_template_directory() . '/inc/hooks/entry.php';
 require get_template_directory() . '/inc/classes/entry.php';
 require get_template_directory() . '/inc/template-enqueue.php';
 require get_template_directory() . '/inc/template-hooks.php';
-require get_template_directory() . '/inc/template-ajax.php';
